@@ -1,1 +1,1 @@
-# Gesti-ndeCalidad
+# GestiondeCalidad
